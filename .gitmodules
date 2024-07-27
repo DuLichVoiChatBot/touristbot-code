@@ -1,0 +1,12 @@
+[submodule "mobile-app"]
+	path = mobile-app
+	url = git@github.com:DuLichVoiChatBot/mobile-app.git
+[submodule "recommendation"]
+	path = recommendation
+	url = git@github.com:DuLichVoiChatBot/recommendation.git
+[submodule "ChatbotAPI"]
+	path = ChatbotAPI
+	url = git@github.com:DuLichVoiChatBot/ChatbotAPI.git
+[submodule "mapAPI"]
+	path = mapAPI
+	url = git@github.com:DuLichVoiChatBot/mapAPI.git
